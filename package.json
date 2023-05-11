@@ -1,0 +1,26 @@
+{
+  "name": "hexlet-jest",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KalinOks/hexlet-jest.git"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "oks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KalinOks/hexlet-jest/issues"
+  },
+  "homepage": "https://github.com/KalinOks/hexlet-jest#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
